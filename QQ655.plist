@@ -23,7 +23,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ai.bdx.sceb.sjsn.mall</string>
+				<string>com.tencent.qq.dailybuild</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
